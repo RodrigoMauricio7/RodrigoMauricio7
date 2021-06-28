@@ -1,7 +1,7 @@
 ### Olá tudo bem?
-#### Me chamo Rodrigo Maurício
+### Eu me chamo: Rodrigo Maurício
 #### Analista de Sistemas, Dev Front-end.
-#### Apaixonado por tecnologias
+#### Apaixonado por tecnologias.
 
 ------
 
